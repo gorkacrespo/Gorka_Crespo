@@ -8,7 +8,7 @@ hash_conocido = "e5ed313192776744b9b93b1320b5e268"
 es_imagen = False
 
 # Ruta de la carpeta que contiene las imágenes
-carpeta_imagenes = "/home/eneko/Documentos/Universidad/Seguridad/Lab_1/imagen/"
+carpeta_imagenes = "C:\Users\gorka\OneDrive\Escritorio\UPV\cuarto pero sin cuarto xd\Seguridad\imagen/"
 
 # Obtener una lista de nombres de archivo en la carpeta
 archivos = os.listdir(carpeta_imagenes)
